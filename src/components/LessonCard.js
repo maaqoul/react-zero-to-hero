@@ -6,17 +6,17 @@ import {
   List,
   ListItem,
 } from "@mui/material";
-import { useHistory } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 const LessonCard = ({ sectionTitle, contentTitles }) => {
-  const history = useHistory();
+  const navigate = useNavigate();
 
   const navigateToContent = (contentPath) => {
-    history.push(contentPath);
+    navigate(contentPath);
   };
 
   return (
-    <Card>
+    <Card className="mt-20">
       <CardActionArea>
         <CardContent>
           <h2>{sectionTitle}</h2>
