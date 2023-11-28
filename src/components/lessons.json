@@ -1,6 +1,6 @@
 {
   "01-welcome": ["A-intro"],
-  "02-no-frills-react": ["A-pure-react", "B-components", "meta.json"],
+  "02-no-frills-react": ["A-pure-react", "B-components"],
   "03-js-tools": ["A-npm", "B-prettier", "C-eslint", "D-git", "E-vite"],
   "04-core-react-concepts": [
     "A-jsx",
@@ -15,20 +15,15 @@
     "A-react-router",
     "B-react-query",
     "C-uncontrolled-forms",
-    "D-class-components",
-    "meta.json"
+    "D-class-components"
   ],
   "06-special-case-react-tools": [
     "A-error-boundaries",
     "B-portals-and-refs",
-    "C-context",
-    "meta.json"
+    "C-context"
   ],
   "07-end-of-intro": ["A-conclusion", "B-ways-to-expand-your-app", "meta.json"],
-  "08-intermediate-react-v5": [
-    "A-welcome-to-intermediate-react-v5",
-    "meta.json"
-  ],
+  "08-intermediate-react-v5": ["A-welcome-to-intermediate-react-v5"],
   "09-hooks-in-depth": [
     "A-useref",
     "B-usereducer",
@@ -36,8 +31,7 @@
     "D-usecallback",
     "E-uselayouteffect",
     "F-useid",
-    "G-others",
-    "meta.json"
+    "G-others"
   ],
   "10-tailwindcss": [
     "A-css-and-react",
@@ -45,19 +39,13 @@
     "C-tailwind-plugins",
     "D-apply",
     "E-grid-and-breakpoints",
-    "F-positioning",
-    "meta.json"
+    "F-positioning"
   ],
   "11-advance-react-performance": [
     "A-code-splitting",
-    "B-server-side-rendering",
-    "meta.json"
+    "B-server-side-rendering"
   ],
-  "12-low-priority-rerendering": [
-    "A-deferred-values",
-    "B-transitions",
-    "meta.json"
-  ],
+  "12-low-priority-rerendering": ["A-deferred-values", "B-transitions"],
   "13-typescript": [
     "A-refactor-modal",
     "B-typescript-and-eslint",
@@ -70,15 +58,13 @@
     "I-refactor-breed-list",
     "J-refactor-search-params",
     "K-refactor-results",
-    "M-refactor-app",
-    "meta.json"
+    "M-refactor-app"
   ],
   "14-redux": [
     "A-redux-toolkit",
     "B-more-app-state",
     "C-rtk-query",
-    "D-redux-dev-tools",
-    "meta.json"
+    "D-redux-dev-tools"
   ],
   "15-testing": [
     "A-testing-react",
@@ -88,8 +74,7 @@
     "E-mocks",
     "F-snapshots",
     "G-c8",
-    "H-visual-studio-code-extension",
-    "meta.json"
+    "H-visual-studio-code-extension"
   ],
   "16-end-of-intermediate": ["A-end-of-intermediate", "meta.json"]
 }

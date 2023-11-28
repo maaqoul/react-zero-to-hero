@@ -1,3 +1,38 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* App.css */
+.body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.app-background {
+  background-color: #e0f2fe; /* A light shade of blue */
+  min-height: 100vh; /* Full viewport height */
+}
+
+.header {
+  background-color: #1976d2; /* A darker shade of blue for the header */
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  justify-content: space-around;
+}
+.home-button {
+  margin-right: 20px;
+  background-color: white; /* or any color you prefer */
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: #1976d2; /* Adjust based on your header color */
+}
+.header-icon {
+  margin-right: 10px;
+}
+
+.header-title {
+  font-size: 1.5rem;
+}
+
+.container {
+  padding-left: 150px;
+  padding-right: 150px;
+}

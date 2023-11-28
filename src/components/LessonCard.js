@@ -16,7 +16,7 @@ const LessonCard = ({ sectionTitle, contentTitles }) => {
   };
 
   return (
-    <Card className="mt-20">
+    <Card style={{ marginTop: "30px" }}>
       <CardActionArea>
         <CardContent>
           <h2>{sectionTitle}</h2>
