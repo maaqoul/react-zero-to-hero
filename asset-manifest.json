@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "//react-zero-to-hero/static/css/main.5e9b2424.css",
-    "main.js": "//react-zero-to-hero/static/js/main.db3ccc70.js",
-    "index.html": "//react-zero-to-hero/index.html",
-    "main.5e9b2424.css.map": "//react-zero-to-hero/static/css/main.5e9b2424.css.map",
-    "main.db3ccc70.js.map": "//react-zero-to-hero/static/js/main.db3ccc70.js.map"
+    "main.css": "/react-zero-to-hero/static/css/main.5e9b2424.css",
+    "main.js": "/react-zero-to-hero/static/js/main.d0116c00.js",
+    "index.html": "/react-zero-to-hero/index.html",
+    "main.5e9b2424.css.map": "/react-zero-to-hero/static/css/main.5e9b2424.css.map",
+    "main.d0116c00.js.map": "/react-zero-to-hero/static/js/main.d0116c00.js.map"
   },
   "entrypoints": [
     "static/css/main.5e9b2424.css",
-    "static/js/main.db3ccc70.js"
+    "static/js/main.d0116c00.js"
   ]
 }
