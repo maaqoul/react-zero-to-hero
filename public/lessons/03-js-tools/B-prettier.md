@@ -45,5 +45,5 @@ Now you can run `yarn format` or `npm run format` and it will run that command. 
 [flow]: https://flow.org/
 [prettier-ide]: https://github.com/prettier/prettier#editor-integration
 [ts]: https://www.typescriptlang.org/
-[vscode]: https://code.visualstudio.com/?WT.mc_id=reactintro-github-brholt
-[vscode-prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&WT.mc_id=reactintro-github-brholt
+[vscode]: https://code.visualstudio.com/
+[vscode-prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode

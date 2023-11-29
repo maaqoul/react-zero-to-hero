@@ -23,20 +23,6 @@ This course works and has been tested on both macOS and Windows 10. It also will
   - Terminal: I just switched back to using macOS's built in terminal. [iTerm2][iterm] is great too. On Windows I love [Windows Terminal][terminal].
   - VS Code Icons: the [vscode-icons][icons] extension.
 
-## Where to File Issues
-
-I write these courses and take care to not make mistakes. However when teaching over ten hours of material, mistakes are inevitable, both here in the grammar and in the course with the material. However I (and the wonderful team at Frontend Masters) are constantly correcting the mistakes so that those of you that come later get the best product possible. If you find a mistake we'd love to fix it. The best way to do this is to [open a pull request or file an issue on the GitHub repo][issues]. While I'm always happy to chat and give advice on social media, I can't be tech support for everyone. And if you file it on GitHub, those who come later can Google the same answer you got.
-
-## How the repo works
-
-There are two repos for this class: [the website you're currently on][site] and [the example projects][projects].
-
-Every step of this project will have a folder that will be a snapshot of where the project is at that step. If you get stuck, want to copy/paste some long bit of code you don't feel like writing, or just want to walk through the code at that point, please do! The primary goal of this is for you to learn so as long as you're learning there's no cheating!
-
-The naming format will be `XX-<name of the lesson>` so you can get a rough idea of order and which lesson the step is coming from. In each snapshot you'll have to run `npm install` again since it'll literally just be another whole copy of the project.
-
-For the Intermediate classes they're just called `<section>` since most of them don't have steps. The ones that do are `<section>-X`.
-
 [bootcamp]: https://frontendmasters.com/bootcamp/
 [nvm]: https://github.com/nvm-sh/nvm
 [vsc]: https://code.visualstudio.com/

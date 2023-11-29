@@ -2,7 +2,7 @@
   "name": "reactcourseexplorer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://maaqoul.github.io//react-zero-to-hero",
+  "homepage": "https://maaqoul.github.io/react-zero-to-hero",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
